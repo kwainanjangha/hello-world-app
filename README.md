@@ -1,2 +1,4 @@
-# hello-world-app
-hello-world-app
+# maven-project
+
+Simple Maven Project
+#
